@@ -6,11 +6,49 @@
 
 .question-1 {
   color: #fff;
+  background-color: rgb(89, 218, 110);  /* Blue */
+  padding: 20px 0;
+}
+
+.one {
+  border: 1px solid #fff;  /* For debugging */
+  width: 900px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.question-2 {
+  color: #fff;
   background-color: #5995DA;  /* Blue */
   padding: 20px 0;
 }
 
-.question {
+.two {
+  border: 1px solid #fff;  /* For debugging */
+  width: 900px;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.boxthree-container {
+  color: rgb(51, 8, 245);
+  background-color: rgb(218, 119, 89);  /* Blue */
+  padding: 20px 0;
+}
+
+.boxthree {
   border: 1px solid #fff;  /* For debugging */
   width: 900px;
 }
