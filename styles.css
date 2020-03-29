@@ -42,13 +42,13 @@
   box-sizing: border-box;
 }
 
-.boxthree-container {
+.question-3 {
   color: rgb(51, 8, 245);
   background-color: rgb(218, 119, 89);  /* Blue */
   padding: 20px 0;
 }
 
-.boxthree {
+.three {
   border: 1px solid #fff;  /* For debugging */
   width: 900px;
 }
